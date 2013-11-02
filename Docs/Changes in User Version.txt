@@ -1,0 +1,14 @@
+
+---------------------------------------------------------------
+-------						      ---------
+-------	Things to make Different in the User Version  ---------
+-------						      ---------
+---------------------------------------------------------------
+
+1. Remove The Line /TEST				ln 53
+2. Remove Goto END after :DEVELOPER			ln 263
+3. Remove Comments Before 
+		i.   RUN MRU				ln 711,712
+		ii.  ASSOC.CAB				ln 789
+		iii. ASSOC.DOC				ln 813
+		iv.  ASSOC.ZIP				ln 964

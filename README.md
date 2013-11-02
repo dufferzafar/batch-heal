@@ -1,4 +1,5 @@
-batch-heal
-==========
+# Batch Heal and Clean
 
-A batch file to fix common PC problems.
+Used to be a batch script to fix common pc problems.
+
+As of now - it belongs to a museum.
